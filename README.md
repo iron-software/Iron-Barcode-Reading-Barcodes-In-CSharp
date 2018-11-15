@@ -6,6 +6,7 @@ A detailed C# tutorial showing how to use the **BarCode** package from Nuget to 
  PM > Install-Package Barcode
 ```
 
+https://www.nuget.org/packages/BarCode/
 
 ```
 using IronBarCode;
